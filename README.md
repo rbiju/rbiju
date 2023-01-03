@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rbiju
 - 👀 I’m interested in computer vision, natural language, bioinformatics, biosensing, and genomics
-- 🌱 I’m currently learning data science in python
-- 💞️ I’m looking to collaborate on any data science projects you have
 - 📫 How to reach me: email me at raymondbiju@gmail.com
 
 <!---
